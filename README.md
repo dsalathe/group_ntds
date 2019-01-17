@@ -13,18 +13,32 @@ Then you will also need to add Basemap. you can run the following command on a t
 You will then need to run `Spreading_disease.ipynb`
 All cells are already run once. You can for sure run it again, if you downloaded the required dataset (can be found [here](https://openflights.org/data.html))
 
-#### Contributing
+## Architecture
+#### >data
+this is the folder containing needed dataset.
+#### >milestones
+In this folder you will find all past milestones needed for the course ntds_2018
+#### -Spreading_disease.ipynb
+Main notebook containing the whole project. This is the only file you need to look at
+#### -License
+The license
+#### -README
+The file you are reading right now.
+
+
+
+## Contributing
 Feel free to take back our work and improve it as you wish. This is a MIT license, so the only request we would ask is that please don't forget to cite us.
 
-#### Authors
-* Matyas Lustig 
+## Authors
+* Matyas Lustig
 * Aurélien Pomini
 * David Salathé
 * Justine Weber
 
-#### License
+## License
 This project is licensed under the MIT License.
 
-#### Acknowledgments
+## Acknowledgments
 * All the nice theory applied in this project is thanks to Prof. Pierre Vandergheynst and Prof. Pascal Frossard
 * All this project could have been done thanks to the support of the teaching assistant of the course ntds_2018
