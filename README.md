@@ -20,6 +20,8 @@ this is the folder containing needed dataset.
 In this folder you will find all past milestones needed for the course ntds_2018
 #### -Spreading_disease.ipynb
 Main notebook containing the whole project. This is the only file you need to look at
+#### -spreading.mp4
+A short animation of how disease propagate in the network. it uses `codec=h264` so you might need a software such as `vlc`. It is generated thanks to the notebook `Spreading_disease.ipynb`.
 #### -License
 The license
 #### -README
